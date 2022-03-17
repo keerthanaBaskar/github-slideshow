@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Created using the GITHUB Account
+# Welcome to our second slide!"
+## Hurray the slide has opened"
 Use the left arrow to go back!
